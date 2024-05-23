@@ -1,8 +1,17 @@
-# React + Vite
+# Just a Map
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Just a Map is a React web application that utilizes the Mapbox API to provide interactive maps and navigation services. With it, users can explore different locations, obtain directions, and discover points of interest with ease.
 
-Currently, two official plugins are available:
+Check it here [here](https://justamap.netlify.app/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+#### Features
+-  Navigation Services: Get step-by-step directions for driving, walking, or cycling routes between locations.
+-  Points of Interest: Discover nearby restaurants, cafes, landmarks, and other points of interest displayed on the map.
+- User Location: Find your current location on the map.
+
+#### Technologies Used
+- Reactjs
+- Tailwand css
+- MapBox
+- Vite
