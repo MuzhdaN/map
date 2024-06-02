@@ -1,6 +1,6 @@
-# Just a Map
+# JustAMap
 
-Just a Map is a React web application that utilizes the Mapbox API to provide interactive maps and navigation services. With it, users can explore different locations, obtain directions, and discover points of interest with ease.
+JustMap is a React web application that utilizes the Mapbox API to provide interactive maps and navigation services. With it, users can explore different locations, obtain directions, and discover points of interest with ease.
 
 Check it here [here](https://justamap.netlify.app/)
 
